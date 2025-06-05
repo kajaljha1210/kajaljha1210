@@ -18,8 +18,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35" height="35"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZET2X7XYkj8OUXKh1mwfcFlFWcVM6b0SXaGLlNT1aguLJGQfbuylhYucE9HWYl7gr8eE&usqp=CAU" width="35" height="35"/>
-  <img src="https://img.icons8.com/color/48/000000/room.png](https://ns1.omigo.ir/uploads/images2/9859e7d0.png" width="35" height="35"/>
-  <img src="https://img.icons8.com/color/48/000000/hilt.png](https://miro.medium.com/v2/resize:fit:1400/1*aQ3FFwXNNxToVnR2D0COeA.png" width="35" height="35"/>
+  <img src="https://ns1.omigo.ir/uploads/images2/9859e7d0.png" width="35" height="35"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*aQ3FFwXNNxToVnR2D0COeA.png" width="35" height="35"/>
 </p>
 
 ---
@@ -32,11 +32,11 @@
   <a href="https://github.com/kajaljha1210">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/kajaljha1210">
+  <a href="https://twitter.com/kajaljha0121">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kajaljha1210&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kajaljha0121&color=blue" alt="Profile Views" />
 </p>
