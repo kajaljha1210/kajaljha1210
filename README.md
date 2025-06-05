@@ -17,9 +17,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35" height="35"/>
-  <img src="https://img.icons8.com/color/48/000000/jetpack-compose.png" width="35" height="35"/>
-  <img src="https://img.icons8.com/color/48/000000/room.png" width="35" height="35"/>
-  <img src="https://img.icons8.com/color/48/000000/hilt.png" width="35" height="35"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZET2X7XYkj8OUXKh1mwfcFlFWcVM6b0SXaGLlNT1aguLJGQfbuylhYucE9HWYl7gr8eE&usqp=CAU" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/48/000000/room.png](https://ns1.omigo.ir/uploads/images2/9859e7d0.png" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/48/000000/hilt.png](https://miro.medium.com/v2/resize:fit:1400/1*aQ3FFwXNNxToVnR2D0COeA.png" width="35" height="35"/>
 </p>
 
 ---
