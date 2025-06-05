@@ -36,13 +36,19 @@ With a passion for building clean, user-focused Android apps, I specialize in mo
 </p>
 
 ---
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajaljha1210&show_icons=true&theme=algolia&title_color=1DA1F2&text_color=ffffff&bg_color=0D1117&border_color=1DA1F2" alt="Kajal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajaljha1210&theme=algolia&ring=1DA1F2&fire=1DA1F2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1DA1F2&sideLabels=ffffff&dates=ffffff&border=1DA1F2&background=0D1117" alt="Kajal's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajaljha1210&layout=compact&theme=algolia&title_color=1DA1F2&text_color=ffffff&bg_color=0D1117&border_color=1DA1F2" alt="Top Languages" />
+</div>
 
-### 📊 Kajal Jha's GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajaljha1210&show_icons=true&theme=radical" alt="Kajal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajaljha1210&theme=radical" alt="Kajal's GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kajaljha1210&color=1DA1F2&style=flat-square" alt="Profile Views" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kajaljha1210&color=blue" alt="Profile Views" />
-</p>
+---
+
+<div align="center">
+  <p>🚀 Always exploring new technologies and building solutions that make a difference!</p>
+</div>
