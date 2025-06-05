@@ -1,9 +1,11 @@
-<div align="center">
-  <h1>Kajal Jha</h1>
-  <h3>Software Engineer | Android Developer</h3>
-</div>
+<h2 align="center">Hi there 👋 I'm Kajal Jha</h2>
+<p align="center"> 👩‍💻  Software Engineer | Android Developer </p>
 
-With a passion for building clean, user-focused Android apps, I specialize in modern tools and architecture. I’m constantly learning and exploring technologies like Jetpack Compose, Firebase integrations, and scalable app patterns to create impactful solutions. I’m eager to contribute to innovative projects where I can grow as a developer and make a meaningful impact.
+---
+
+🎯 I enjoy building clean and user-focused Android apps using modern tools and architecture.  
+🌱 Constantly learning, exploring Jetpack Compose, Firebase integrations & scalable app patterns.  
+📫 Reach me at: [kajaljha1210@gmail.com](mailto:kajaljha1210@gmail.com)
 
 ---
 
