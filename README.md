@@ -1,5 +1,4 @@
-<h2 align="center">Hi there 👋 I'm Kajal Jha</h2>
----
+<h2 align="center">Hi👋, I'm Kajal Jha</h2>
 <p align="center"> 👩‍💻  Software Engineer | Android Developer </p>
 
 ---
