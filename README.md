@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋 I'm Kajal Jha</h2>
-<p align="center">💻 Android Developer | Kotlin • Jetpack Compose • Firebase</p>
+<p align="center">💻 Android Developer </p>
 
 ---
 
