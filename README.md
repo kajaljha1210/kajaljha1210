@@ -12,7 +12,6 @@
 I am an Android Developer with over 3 years of experience, skilled in Kotlin and Java. I specialize in building clean, scalable apps using MVVM architecture and modern tools. Currently, I’m working on projects like Merchandising Operations App and SkiTrax, while exploring advanced Jetpack Compose techniques.
 
 - 🌟 I’m passionate about user-focused Android solutions
-- 📚 Read my blogs at [kajaljha1210.hashnode.dev](https://kajaljha1210.hashnode.dev)
 - 📫 You can contact me at [kajaljha1210@gmail.com](mailto:kajaljha1210@gmail.com)
 - 🚀 I’m open to exciting development opportunities
 
