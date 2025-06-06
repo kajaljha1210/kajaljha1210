@@ -60,5 +60,5 @@ With a strong interest in mobile technologies and a deep drive to build seamless
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kajaljha1210&color=1DA1F2&style=flat-square" />
-  <p>💡 "Whatever You Think, You Become."</p>
+  <p>💡 "🚀 Always exploring new technologies and building solutions that make a difference!"</p>
 </div>
