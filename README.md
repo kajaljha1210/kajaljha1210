@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/placeholder/cover-banner.webp" width="100%" />
-
-<h1 align="center">KAJAL JHA</h1>
-<h3 align="center">ANDROID DEVELOPER</h3>
+<h2 align="center">Hi👋, I'm Kajal Jha</h2>
+<p align="center"> 👩‍💻  Software Engineer | Android Developer </p>
 
 ---
 
