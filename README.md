@@ -3,7 +3,7 @@
 <h2 align="center">Hey there 👋, I'm Kajal Jha</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Android+Craftswoman+%F0%9F%93%B1;Clean+Architecture+Enthusiast+%F0%9F%94%A5;Compose+Addict+%F0%9F%96%8C%EF%B8%8F;Firebase+Powered+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Android+Devloper+%F0%9F%93%B1;Clean+Architecture+Enthusiast+%F0%9F%94%A5;Compose+Addict+%F0%9F%96%8C%EF%B8%8F;Firebase+Powered+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>🧠 Android Engineer | 🛠️ Kotlin Coder | 🎨 UI Magician</strong><br/>
+  <strong>🧠 Android Engineer | 🛠️ Kotlin | Java </strong><br/>
   <em>Transforming concepts into elegant, functional, real-world Android apps.</em>
 </p>
 
