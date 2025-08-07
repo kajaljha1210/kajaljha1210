@@ -1,71 +1,96 @@
-<img src="https://user-images.githubusercontent.com/placeholder/cover-banner.webp" width="100%" alt="Banner" />
+<img src="https://user-images.githubusercontent.com/placeholder/cover-banner.webp" width="100%" alt="banner" />
 
-<h2 align="center">Hi 👋, I'm Kajal Jha</h2>
-<p align="center"><strong>👩‍💻 Software Engineer | Android Developer</strong></p>
+<h2 align="center">Hey there 👋, I'm Kajal Jha</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Android+Craftswoman+%F0%9F%93%B1;Clean+Architecture+Enthusiast+%F0%9F%94%A5;Compose+Addict+%F0%9F%96%8C%EF%B8%8F;Firebase+Powered+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" />
+</p>
 
 ---
 
 <p align="center">
-  Passionate about building clean, modern & scalable Android applications.<br>
-  🚀 Skilled in Kotlin, Jetpack Compose, Firebase & MVVM Architecture.<br>
-  🎯 Focused on real-world problem-solving and performance-driven app development.
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 </p>
-
----
-
-### 👩‍💻 About Me
-
-I’m an enthusiastic **Android Developer** with a keen interest in crafting delightful mobile experiences. My work revolves around clean architecture, modern Android tech (Jetpack Compose, Kotlin, Firebase), and solving real-world problems with scalable app design.
-
-- 💡 Exploring Jetpack libraries & Firebase integrations  
-- 💬 Love collaborating, mentoring & contributing to dev communities  
-- 🧠 Always learning something new in tech  
-- 🎯 Currently diving deeper into **multi-module architecture** & **Jetpack Compose performance tuning**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Jetpack_Compose_Logo.png" width="40" height="40" alt="Jetpack Compose" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/kajal0121">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/kajaljha1210">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/kajaljha0121">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajaljha1210&show_icons=true&theme=algolia&title_color=1DA1F2&text_color=ffffff&bg_color=0D1117&border_color=1DA1F2" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajaljha1210&theme=algolia&ring=1DA1F2&fire=1DA1F2" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajaljha1210&layout=compact&theme=algolia&title_color=1DA1F2" width="40%" />
+  <strong>🧠 Android Engineer | 🛠️ Kotlin Coder | 🎨 UI Magician</strong><br/>
+  <em>Transforming concepts into elegant, functional, real-world Android apps.</em>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kajaljha1210&color=1DA1F2&style=flat-square" />
-  <p><strong>💡 "Always exploring new technologies and building solutions that make a difference!"</strong></p>
-</div>
+### 🚀 Who Am I?
+
+```kotlin
+fun getProfile(): Kajal {
+    return Kajal(
+        currentRole = "Android Developer",
+        techStack = listOf("Kotlin", "Jetpack Compose", "Firebase", "MVVM"),
+        interests = listOf("Clean Architecture", "Modular Apps", "Open Source"),
+        funFact = "I design UIs like they're digital poetry 🎨"
+    )
+}
+```
+
+- 📱 Passionate about building smooth, scalable mobile experiences  
+- 🔍 Focused on performance, UI/UX, and maintainable architecture  
+- 💡 Problem solver with an eye for detail and user happiness  
+- 💬 Always open to talk Android, tech, or coffee ☕  
+
+---
+
+### 🧰 Tools & Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,android,firebase,git,github,androidstudio,vscode" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/kajaljha1210/TopAndroidApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajaljha1210&repo=TopAndroidApp&theme=radical" />
+  </a>
+  <a href="https://github.com/kajaljha1210/AwesomeComposeUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajaljha1210&repo=AwesomeComposeUI&theme=radical" />
+  </a>
+</p>
+
+---
+
+### 📊 My Dev Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajaljha1210&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=kajaljha1210&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajaljha1210&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+### 🌐 Let's Get Connected
+
+<p align="center">
+  <a href="https://linkedin.com/in/kajal0121"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kajaljha1210"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/kajaljha0121"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+### 💖 Support & Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kajaljha1210&style=flat-square&color=blue" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/jWni7dB1Q0EAAAAC/waving-hand-hi.gif" width="70" />
+  <br/>
+  <i>Thanks for stopping by! Let's build something beautiful together 👩‍💻✨</i>
+</p>
