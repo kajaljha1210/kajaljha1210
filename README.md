@@ -3,7 +3,7 @@
 <h2 align="center">Hey there 👋, I'm Kajal Jha</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Android+Devloper+%F0%9F%93%B1;Clean+Architecture+Enthusiast+%F0%9F%94%A5;Compose+Addict+%F0%9F%96%8C%EF%B8%8F;Firebase+Powered+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Android+Developer+%F0%9F%93%B1;Clean+Architecture+Enthusiast+%F0%9F%94%A5;Compose+Addict+%F0%9F%96%8C%EF%B8%8F;Firebase+Powered+%F0%9F%9A%80;Always+Learning+%E2%9C%A8" />
 </p>
 
 ---
@@ -47,18 +47,17 @@ fun getProfile(): Kajal {
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/kajaljha1210/TopAndroidApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajaljha1210&repo=TopAndroidApp&theme=radical" />
+  <a href="https://github.com/kajaljha1210/baatcheet-android-chatapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajaljha1210&repo=baatcheet-android-chatapp&theme=radical" alt="BaatCheet Android Chat App" />
   </a>
-  <a href="https://github.com/kajaljha1210/AwesomeComposeUI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajaljha1210&repo=AwesomeComposeUI&theme=radical" />
+  <a href="https://github.com/kajaljha1210/JetpackComposeUserDashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kajaljha1210&repo=JetpackComposeUserDashboard&theme=radical" alt="Jetpack Compose User Dashboard" />
   </a>
 </p>
 
----
 
 ### 📊 My Dev Stats
 
