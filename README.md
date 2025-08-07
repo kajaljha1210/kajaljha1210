@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>🧠 Android Engineer | 🛠️ Kotlin |⚡ Java </strong><br/>
+  <strong>🧠 Android Developer | 🛠️ Kotlin |⚡ Java </strong><br/>
   <em>Transforming concepts into elegant, functional, real-world Android apps.</em>
 </p>
 
